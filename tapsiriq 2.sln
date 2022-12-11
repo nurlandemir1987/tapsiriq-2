@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tapsiriq 2", "tapsiriq 2\tapsiriq 2.csproj", "{D21F77B4-7E42-4712-AADC-47B42A9DE73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21F77B4-7E42-4712-AADC-47B42A9DE73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21F77B4-7E42-4712-AADC-47B42A9DE73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21F77B4-7E42-4712-AADC-47B42A9DE73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21F77B4-7E42-4712-AADC-47B42A9DE73B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C79E2EF2-8D3C-4CB3-82A6-5681E9C66EB2}
+	EndGlobalSection
+EndGlobal
